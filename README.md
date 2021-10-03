@@ -1,8 +1,5 @@
 # Detect-Battery
 
-
-# Detect-Battery
-
 This mini project mainly designed for checking the battery status
 ## 👋 Hi I'm Rajesh Vanga
 
